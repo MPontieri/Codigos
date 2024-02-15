@@ -1,3 +1,3 @@
 # Codigos
 
-  Criei este repositorio para armazenar codigos que fiz estudando alguma linguagem de programação.
+  Criei este repositório para armazenar códigos que fiz estudando alguma linguagem de programação.
